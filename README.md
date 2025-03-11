@@ -5,5 +5,5 @@
 # Installation
 
 ### Mush have python 3.9+
-###Install all the dependencies from requirements.txt
-###paste any website link in the line: 42 in bot.py and run the bot.py and wait for the output
+### Install all the dependencies from requirements.txt
+### paste any website link in the line: 42 in bot.py and run the bot.py and wait for the output
